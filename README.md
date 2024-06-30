@@ -1,2 +1,2 @@
 # curso-git
-Repósitorio curso - Git e GitHub - Dev Completo
+Repósitorio curso - Git e GitHub - Dev Completo.
